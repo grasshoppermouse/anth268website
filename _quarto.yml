@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Anthropology 268: Sex, Evolution, and Human Nature"
+  twitter-card: true
+  open-graph: true
+  navbar:
+    right:
+      - about.qmd
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: "https://bsky.app/profile/edhagen.net"
+      - icon: twitter
+        href: https://twitter.com/ed_hagen
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

@@ -1,0 +1,14 @@
+---
+title: "Ed Hagen"
+image: hagen.jpg
+about:
+  template: jolla
+  links:
+    - text: "{{< iconify simple-icons bluesky >}}"
+      href: "https://bsky.app/profile/edhagen.net"
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ed_hagen
+---
+
+[Faculty page](https://anthro.vancouver.wsu.edu/people/hagen)
